@@ -16,7 +16,7 @@ let add_num: number = 5 + 4;
 // Number 8
 let sayHello = () => {
     // alert("Hello World!"); // change back once in production
-    return console.log("Hello World!");
+    console.log("Hello World!");
 }
 sayHello();
 
@@ -52,7 +52,8 @@ for (let i = 0; i < various_people.length; i++) {
 
 
 // Number 10
-let fav_veggies = ["Kale", "Carrots", "Green Peas", "Asparagus"];
+let fav_veggies: Array<string>;
+fav_veggies = ["Kale", "Carrots", "Green Peas", "Asparagus"];
 
 for (let i = 0; i < fav_veggies.length; i++) {
     console.log(fav_veggies[i]);

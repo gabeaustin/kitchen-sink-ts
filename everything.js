@@ -11,7 +11,7 @@ var add_num = 5 + 4;
 // Number 8
 var sayHello = function () {
     // alert("Hello World!"); // change back once in production
-    return console.log("Hello World!");
+    console.log("Hello World!");
 };
 sayHello();
 // Number 9
@@ -42,7 +42,8 @@ for (var i = 0; i < various_people.length; i++) {
     checkAge(various_people[i].firstName, various_people[i].age);
 }
 // Number 10
-var fav_veggies = ["Kale", "Carrots", "Green Peas", "Asparagus"];
+var fav_veggies;
+fav_veggies = ["Kale", "Carrots", "Green Peas", "Asparagus"];
 for (var i = 0; i < fav_veggies.length; i++) {
     console.log(fav_veggies[i]);
 }
