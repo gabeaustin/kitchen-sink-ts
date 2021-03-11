@@ -1,20 +1,20 @@
 {
-  "name": "ts-kitchen-sink",
-  "version": "1.0.0",
-  "description": "The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc -w"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gabeaustin/kitchen-sink-ts.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gabeaustin/kitchen-sink-ts/issues"
-  },
-  "homepage": "https://github.com/gabeaustin/kitchen-sink-ts#readme"
+    "name": "ts-kitchen-sink",
+    "version": "1.0.0",
+    "description": "The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "tsc -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gabeaustin/kitchen-sink-ts.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gabeaustin/kitchen-sink-ts/issues"
+    },
+    "homepage": "https://github.com/gabeaustin/kitchen-sink-ts#readme"
 }

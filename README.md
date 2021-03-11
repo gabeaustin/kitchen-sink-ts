@@ -1,4 +1,4 @@
-# JavaScript Kitchen Sink
+# TypeScript Kitchen Sink
 The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
 
 ## Required
@@ -24,3 +24,9 @@ The objective of this lab assignment is to practice using the fundamentals of Ja
 13. Create a function called getLength that takes any word as an argument. The function should return the number of characters in the string.
     * Call the getLength function, passing 'Hello World' as the argument. Store the returned result of that function in a variable.
     * If the number is even, display 'The world is nice and even!' in the developer console. Otherwise if the number is odd, display 'The world is an odd place!' in the developer console.# Kitchen Sink - TypeScript
+
+<br/>
+<br/>
+
+:octocat:  TypeScript Kitchen Sink  :octocat:<br/>
+:nerd_face:  created by: Gabe A.  :nerd_face:
