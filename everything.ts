@@ -27,7 +27,11 @@ let checkAge = (firstName: string, age: number) => {
     }
 }
 
-let various_people = [
+let fav_veggies :string[];
+fav_veggies = ["Kale", "Carrots", "Green Peas", "Asparagus"];
+
+
+let various_people: {firstName: string, age: number} [] = [
     {
         firstName: "Charles",
         age: 21
@@ -45,6 +49,7 @@ let various_people = [
         age: 17
     }
 ];
+
 
 for (let i = 0; i < various_people.length; i++) {
     checkAge(various_people[i].firstName, various_people[i].age);

@@ -20,6 +20,8 @@ var checkAge = function (firstName, age) {
         console.log("Sorry + " + firstName + ", you aren't old enough to view this page!");
     }
 };
+var fav_veggies;
+fav_veggies = ["Kale", "Carrots", "Green Peas", "Asparagus"];
 var various_people = [
     {
         firstName: "Charles",
